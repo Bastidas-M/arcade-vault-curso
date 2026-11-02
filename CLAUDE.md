@@ -32,3 +32,6 @@ No test framework is configured yet.
 - **Tailwind CSS v4** is wired through a Turbopack CSS loader rule (`@tailwindcss/turbopack`), not PostCSS. Theme tokens live in `app/globals.css` via `@import "tailwindcss"` and `@theme inline` (there is no `tailwind.config.*`).
 - Layout props use the generated global type `LayoutProps<"/">` (likewise `PageProps<...>`) rather than hand-written prop types.
 - Path alias: `@/*` → project root.
+
+## Skills
+Usa siempre el skill /fronted-design para hacer interfaces de usuario. 
