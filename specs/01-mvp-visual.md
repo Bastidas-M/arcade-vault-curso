@@ -1,6 +1,6 @@
 # MVP Visual — Arcade Vault
 
-**Estado:** Aprobado
+**Estado:** Implementado
 **Depende de:** —
 **Fecha:** 2026-11-01
 **Objetivo:** Implementar las 5 pantallas visuales del MVP (Biblioteca, Detalle, Reproductor, Auth, Salón de la Fama) como componentes Next.js con navegación por estado React y estilos migrados a Tailwind v4.
