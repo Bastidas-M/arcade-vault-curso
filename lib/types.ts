@@ -21,7 +21,7 @@ export interface User {
   name: string;
 }
 
-export type RouteName = 'biblioteca' | 'detalle' | 'player' | 'auth' | 'salon';
+export type RouteName = 'home' | 'biblioteca' | 'detalle' | 'player' | 'auth' | 'salon' | 'about';
 
 export interface Route {
   name: RouteName;
